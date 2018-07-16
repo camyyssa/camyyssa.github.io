@@ -2,7 +2,7 @@ profile:
   name: Camelia Smeria
   label: Full Stack Web Developer
   email: camelia.smeria@gmail.com
-  description:
+  summary:
     I believe in adding value to the lives of those around me. On a professional level this translates into creating accessible software tailored towards the needs of the user. But above everything it means trying to become the best programmer and person that I can possibly be.
 
 
@@ -69,8 +69,8 @@ education:
 
 languages:
   - name: English
-    fluency: Proficient
+    level: Proficient
   - name: German
-    fluency: Limited Professional proficiency
+    level: Limited Professional proficiency
   - name: Romanian
-    fluency: Native
+    level: Native
