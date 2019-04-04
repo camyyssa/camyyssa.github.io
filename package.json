@@ -1,0 +1,15 @@
+{
+  "name": "camyyssa.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:camyyssa/camyyssa.github.io.git",
+  "author": "Camelia Smeria <camelia.smeria@magine.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "turtle-cv": "https://github.com/aengl/turtle-cv"
+  },
+  "scripts": {
+    "build": "turtle-cv index.yml --watch"
+  }
+}
