@@ -28,10 +28,15 @@ work:
     summary:
       Magine is a video streaming company that aims to bring your favorite TV channels and movies anywhere you are.
     highlights:
-      - Developing the template video streaming app from early stages to 4 partners with active users
-      - Leading a developer team accross 4 countries
-      - Focus on team communication
-      - My first experiment as a digital nomad
+      - summary: Developing the template video streaming app from early stages to 4 partners with active users
+        keywords:
+          - React
+          - JavaScript
+          - GraphQL
+          - Video Streaming
+      - summary: Leading a developer team accross 4 countries
+      - summary: Focus on team communication
+      - summary: My first experiment as a digital nomad
 
   - company: ENGL Engineering OHG
     from: April 2015
@@ -51,8 +56,16 @@ work:
     summary:
       Develop various software solutions for a small guitar amplifier producer.
     highlights:
-      - Programming of microcontrollers for small in-house projects
-      - Design and programming of an internal inventory management system
+      - summary: Programming of microcontrollers for small in-house projects
+        keywords:
+          - C
+          - C++
+          - Atmel
+      - summary: Design and programming of an internal inventory management system
+        keywords:
+          - C#
+          - WPF
+          - SQL
 
 education:
   - institution: University of Amsterdam
