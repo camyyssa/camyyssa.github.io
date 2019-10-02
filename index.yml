@@ -2,14 +2,25 @@ profile:
   name: Camelia Smeria
   label: Full Stack Web Developer
   email: camelia.smeria@gmail.com
-  summary:
-    I believe in adding value to the lives of those around me. On a professional level this translates into creating accessible software tailored towards the needs of the user. But above everything it means trying to become the best programmer and person that I can possibly be.
+  summary: I believe in adding value to the lives of those around me. On a
+    professional level this translates into creating accessible software
+    tailored towards the needs of the user. But above everything it means trying
+    to become the best programmer and person that I can possibly be.
 
 
-    Passion for all things logical has been the force that pulled me towards computer science ever since I bumped into my first lines of code on my big brother's computer. Small building blocks, with some logic applied, some putting together, and things move around the way you imagine them to. Spend enough time doing that and the fun never ends.
+    Passion for all things logical has been the force that pulled me towards
+    computer science ever since I bumped into my first lines of code on my big
+    brother's computer. Small building blocks, with some logic applied, some
+    putting together, and things move around the way you imagine them to. Spend
+    enough time doing that and the fun never ends.
 
 
-    Fast forward to today with a masters degree and industry experience and the fun of making things work still hasn't ended. Even more, it challenges me every day to push myself harder, find better solutions, and always learn new things. And the best thing I realized about what I do? My job is to help people. They just come to me with problems or ideas and I just go ahead and help them fix them.
+    Fast forward to today with a masters degree and industry experience and the
+    fun of making things work still hasn't ended. Even more, it challenges me
+    every day to push myself harder, find better solutions, and always learn new
+    things. And the best thing I realized about what I do? My job is to help
+    people. They just come to me with problems or ideas and I just go ahead and
+    help them fix them.
 
 
     So what can I do to help you today?
@@ -26,7 +37,8 @@ work:
   - company: Magine AB Sweden
     from: February 2017
     summary:
-      Magine is a video streaming company that aims to bring your favorite TV channels and movies anywhere you are.
+      Magine is a video streaming company that aims to bring your favorite TV
+      channels and movies anywhere you are.
     highlights:
       - summary: Developing the template video streaming app from early stages to 6 partners with active users
         keywords:
@@ -42,13 +54,13 @@ work:
     from: April 2015
     until: October 2016
     summary:
-      Build an intelligent system that autonomously extracts information about and evaluates products for specific end-user needs.
+      Build an intelligent system that autonomously extracts information about
+      and evaluates products for specific end-user needs.
 
   - company: MIRS Consulting GmbH
     from: September 2014
     until: March 2015
-    summary:
-      Development on a web-based time management system. C# and ASP.NET
+    summary: Development on a web-based time management system. C# and ASP.NET
 
   - company: ENGL Gerätebau GmbH
     from: July 2012
@@ -61,7 +73,8 @@ work:
           - C
           - C++
           - Atmel
-      - summary: Design and programming of an internal inventory management system
+      - summary:
+          Design and programming of an internal inventory management system
         keywords:
           - C#
           - WPF
