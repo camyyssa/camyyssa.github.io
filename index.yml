@@ -40,7 +40,7 @@ work:
       Magine is a video streaming company that aims to bring your favorite TV
       channels and movies anywhere you are.
     highlights:
-      - summary: Developing the template video streaming app from early stages to 6 partners with active users
+      - summary: Developing the template video streaming app from early stages to 6 partners with active users.
         keywords:
           - React
           - JavaScript
@@ -60,21 +60,24 @@ work:
   - company: MIRS Consulting GmbH
     from: September 2014
     until: March 2015
-    summary: Development on a web-based time management system. C# and ASP.NET
+    summary: MIRS is a small consultancy working with CMS systems for a large chemical facility.
+    highlights:
+      - summary: Development on a web-based time management system.
+        keywords:
+          - C#
+          - ASP.NET
 
   - company: ENGL Gerätebau GmbH
     from: July 2012
     until: August 2014
-    summary:
-      Develop various software solutions for a small guitar amplifier producer.
+    summary: Develop various software solutions for a small guitar amplifier producer.
     highlights:
       - summary: Programming of microcontrollers for small in-house projects
         keywords:
           - C
           - C++
           - Atmel
-      - summary:
-          Design and programming of an internal inventory management system
+      - summary: Design and programming of an internal inventory management system
         keywords:
           - C#
           - WPF
