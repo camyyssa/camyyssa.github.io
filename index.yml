@@ -34,8 +34,22 @@ social:
     url: https://www.linkedin.com/in/cameliasmeria/
 
 work:
+  - company: Proposales AB
+    from: February 2020
+    summary: Proposales is creating the new standard for proposals. We believe writing beautiful proposals, that look good on desktop and mobile, and are fit for the modern world should be easy and fast.
+    highlights:
+      - summary: Modernizing and maintaining the full-stack solution for the website and the webapp.
+        keywords:
+          - React
+          - JavaScript
+          - GraphQL
+          - Node
+      - summary: Focus on team communication
+      - summary: Ways to make a remote development team thrive
+
   - company: Magine AB Sweden
     from: February 2017
+    until: February 2020
     summary:
       Magine is a video streaming company that aims to bring your favorite TV
       channels and movies anywhere you are.
